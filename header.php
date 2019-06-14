@@ -1,6 +1,6 @@
 <?php wp_head(); ?>
 
-<div>
+<div class="logo">
   <div class="rye one"></div>
   <div class="rye two"></div>
   <div class="rye three"></div>

@@ -11,6 +11,10 @@ body {
   background-color: #000;
 }
 
+.logo {
+  width: inherit;
+}
+
 .rye {
   background-color: #fff;
   width: 100px;
