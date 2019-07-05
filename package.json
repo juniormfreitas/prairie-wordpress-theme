@@ -1,0 +1,23 @@
+{
+    "name": "prairie-wordpress-theme",
+    "version": "1.0.0",
+    "description": "A free wordpress theme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juniormfreitas/prairie-wordpress-theme.git"
+    },
+    "keywords": [
+        "prairie",
+        "wordpress",
+        "theme"
+    ],
+    "author": "J. de Freitas",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/juniormfreitas/prairie-wordpress-theme/issues"
+    },
+    "homepage": "https://github.com/juniormfreitas/prairie-wordpress-theme#readme"
+}
