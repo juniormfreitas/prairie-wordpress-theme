@@ -1,6 +1,6 @@
 /*
 Theme Name: Prairie Wordpress Theme
-Theme URI: https://juniorfreitas.net/
+Theme URI: https://github.com/juniormfreitas/prairie-wordpress-theme
 Author URI: https://github.com/juniormfreitas/
 Author: Junior de Freitas
 Description: A simple and plain wordpress theme
@@ -8,41 +8,41 @@ Version: 1.0.0
 */
 
 body {
-  background-color: #000;
+    background-color: #000;
 }
 
 .logo {
-  width: inherit;
+    width: inherit;
 }
 
 .rye {
-  background-color: #fff;
-  width: 100px;
-  height: 100px;
-  border: solid rgba(255, 255, 255, 0.7) 5px;
-  border-radius: 0% 50%;
-  position: absolute;
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    border: solid rgba(255, 255, 255, 0.7) 5px;
+    border-radius: 0% 50%;
+    position: absolute;
 }
 
 .one {
-  z-index: 1;
-  transform: translateY(50px);
-  background-color: #fef176;
+    z-index: 1;
+    transform: translateY(50px);
+    background-color: #fef176;
 }
 
 .two {
-  z-index: 2;
-  transform: translateY(100px);
-  background-color: #fd9e35;
+    z-index: 2;
+    transform: translateY(100px);
+    background-color: #fd9e35;
 }
 
 .three {
-  z-index: 3;
-  background-color: #fecc2f;
-  transform: translateY(150px);
+    z-index: 3;
+    background-color: #fecc2f;
+    transform: translateY(150px);
 }
 .four {
-  z-index: 3;
-  background-color: #fef176;
-  transform: translateY(200px);
+    z-index: 3;
+    background-color: #fef176;
+    transform: translateY(200px);
 }

@@ -1,7 +1,7 @@
 {
     "name": "prairie-wordpress-theme",
     "version": "1.0.0",
-    "description": "A free wordpress theme",
+    "description": "A simple and plain wordpress theme",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -28,5 +28,10 @@
         "gulp-rename": "^1.4.0",
         "gulp-sass": "^4.0.2",
         "gulp-uglify": "^3.0.2"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.9.0",
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.4.1"
     }
 }
